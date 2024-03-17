@@ -27,6 +27,6 @@
 
 ## Reference sources
 
-- [dotfiles-public](https://github.com/craftzdog/dotfiles-public)
-- [.tmux](https://github.com/gpakosz/.tmux)
-- [craftzdog-tmux](https://github.com/craftzdog/dotfiles-public/tree/master/.config/tmux)
+- [craftzdog-solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim)
+- [craftzdog-dotfiles-public](https://github.com/craftzdog/dotfiles-public)
+- [gpakosz-.tmux](https://github.com/gpakosz/.tmux)
