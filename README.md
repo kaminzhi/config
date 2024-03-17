@@ -19,6 +19,7 @@
 ## Shell setup (Linux)
 
 - [Kitty terminal](https://github.com/kovidgoyal/kitty)
+- [colorls](https://github.com/athityakumar/colorls)
 - [Fish shell](https://fishshell.com/)
 - [Fisher](https://github.com/jorgebucaran/fisher)
 - [Tide](https://github.com/IlanCosman/tide)
