@@ -1,5 +1,6 @@
 # kamin's config files
 
+#### My Neovim screenshot
 ![image](./nvim.png)
 
 ## Contents
@@ -24,7 +25,7 @@
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts)
 - [fzf](https://github.com/PatrickF1/fzf.fish)
 
-### Reference sources
+## Reference sources
 
 - [dotfiles-public](https://github.com/craftzdog/dotfiles-public)
 - [.tmux](https://github.com/gpakosz/.tmux)
