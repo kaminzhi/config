@@ -1,7 +1,12 @@
+alias neofetch='neofetch --ascii $HOME/Project/ascii-image-converter-git/image/anime-art.txt'
+
 if status is-interactive
-    # Commands to run in interactive sessions can go here
     neofetch
 end
+
+export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
+export PATH="/root/.loacl/share/gem/ruby/3.0.0/bin:$PATH"
+export PATH="$PATH:$GEM_HOME/bin"
 
 set -x username 'jimmys@bigbyte.com.tw'
 set -x password 'bb@Lab-Pan'
@@ -25,6 +30,9 @@ alias ls "colorls -p -G"
 alias la "ls -A"
 alias ll "ls -l"
 alias lla "ll -A"
+alias dev "bash ~/.script/ide.sh"
+
+#alias fp "cat /etc/services | fzf"
 alias g git
 command -qv nvim && alias vim nvim
 
