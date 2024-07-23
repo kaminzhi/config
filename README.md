@@ -1,4 +1,4 @@
-# kamin's config files
+# Dotfiles
 
 #### Screenshot
 ![image](./nvim.png)
