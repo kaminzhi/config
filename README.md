@@ -1,6 +1,6 @@
 # kamin's config files
 
-#### My Neovim screenshot
+#### Screenshot
 ![image](./nvim.png)
 
 ## Contents
