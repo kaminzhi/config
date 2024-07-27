@@ -1,7 +1,9 @@
-# Dotfiles
+# My Dev Dotfiles
 
 #### Screenshot
 ![image](./nvim.png)
+
+### Base with [dotfiles-public](https://github.com/craftzdog/dotfiles-public)
 
 ## Contents
 
@@ -31,3 +33,4 @@
 - [craftzdog-solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim)
 - [craftzdog-dotfiles-public](https://github.com/craftzdog/dotfiles-public)
 - [gpakosz-.tmux](https://github.com/gpakosz/.tmux)
+
